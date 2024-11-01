@@ -10,6 +10,7 @@ The dataset used for this project is the **Life Expectancy Data** from the WHO, 
 - Disease prevalence (e.g., Measles, Diphtheria)
 - Socioeconomic factors (e.g., GDP, Education)
 
+The dataset originates from the World Health Organization (WHO) and the United Nations, compiled with contributions from multiple research initiatives.
 You can find the dataset [here](https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who).
 
 
